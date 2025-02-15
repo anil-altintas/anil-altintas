@@ -7,10 +7,10 @@ Merhaba! Geliştirme sürecimde sıkça kullandığım teknolojiler aşağıda y
   <a href="https://laravel.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/></a>
   <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
   <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="MSSQL" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg" alt="MSSQL" width="40" height="40"/></a>
   <a href="https://www.android.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/></a>
   <a href="https://www.apple.com/ios/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="iOS" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://raw.githubusercontent.com/thiagomedeiros/SwiftUI-Logo/master/SwiftUILogo.png" alt="SwiftUI" width="40" height="40"/></a>
+  <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
   <a href="https://www.javascript.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
