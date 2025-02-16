@@ -1,15 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Merhaba%2C+Ben+Anıl+Altıntaş👋;PHP+%26+Bulut+Uzmanı;Yapay+Zeka" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Merhaba%2C+Ben+Anıl+Altıntaş👋;PHP+%26+Bulut+Uzmanı;Full+Stack+Developer;Yapay+Zeka" alt="Animated Header" />
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anil-altintas/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://medium.com/@anilaltintas">
-    <img src="https://img.shields.io/badge/-Medium-000000?style=plastic&logo=medium" alt="Medium">
-  </a>
-  <a href="mailto:anil@altintas.dev">
+  </a><a href="mailto:anilaltintas@barkodsatis.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
@@ -45,7 +41,6 @@
 📫 İletişim
 <p align="center"> 
   <a href="https://barkodsatis.com/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"> </a> 
-  <a href="https://www.linkedin.com/in/anilaltintas"><img src="https://img.shields.io/badge/%40-Linkedin-blue" alt="LinkedIn"> </a> 
   <a href="https://www.instagram.com/birmarka_aa/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> </p><div align="center">
 
 > "Yazılım, dünyayı değiştirmek için elimizdeki en güçlü araçtır." - Sundar Pichai
