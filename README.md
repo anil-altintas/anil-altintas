@@ -1,23 +1,51 @@
-# Kullandığım Teknolojiler
-
-Merhaba! Geliştirme sürecimde sıkça kullandığım teknolojiler aşağıda yan yana dizilmiştir:
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Merhaba%2C+Ben+Anıl+Altıntaş👋;PHP+%26+Bulut+Uzmanı;Yapay+Zeka" alt="Animated Header" />
+</div>
 
 <p align="center">
-  <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://laravel.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/></a>
-  <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg" alt="MSSQL" width="40" height="40"/></a>
-  <a href="https://www.android.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://www.apple.com/ios/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="iOS" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://www.javascript.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://isocpp.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://jquery.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="40" height="40"/></a>
-  <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap CSS" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/anil-altintas/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@anilaltintas">
+    <img src="https://img.shields.io/badge/-Medium-000000?style=plastic&logo=medium" alt="Medium">
+  </a>
+  <a href="mailto:anil@altintas.dev">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
+
+---
+
+### 🛠️ Teknoloji Stack'im
+
+**🌐 Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)
+
+**⚙️ Backend:**  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet)
+
+**☁️ Bulut:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+
+**🧠 Yapay Zeka:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv)
+
+---
+
+📫 İletişim
+<p align="center"> 
+  <a href="https://barkodsatis.com/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"> </a> 
+  <a href="https://www.linkedin.com/in/anilaltintas"><img src="https://img.shields.io/badge/%40-Linkedin-blue" alt="LinkedIn"> </a> 
+  <a href="https://www.instagram.com/birmarka_aa/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> </p><div align="center">
+
+> "Yazılım, dünyayı değiştirmek için elimizdeki en güçlü araçtır." - Sundar Pichai
