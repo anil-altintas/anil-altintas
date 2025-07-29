@@ -16,6 +16,7 @@
 
 **🌐 Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)
